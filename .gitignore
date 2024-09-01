@@ -1,0 +1,3 @@
+.wget-hsts
+*.txt
+wget.exe
